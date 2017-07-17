@@ -1,0 +1,18 @@
+$color-primary: #ff7a7a;
+$font-primary: 'Helvetica';
+
+* {
+  box-sizing: border-box;
+  width: 100%;
+  font-size: 1em;
+  white-space: pre-wrap;
+}
+
+
+body {
+  background: $color-primary;
+}
+
+button {
+  width: 30%;
+}
